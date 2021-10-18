@@ -1,0 +1,152 @@
+body {
+  font-family: 'Mukta', sans-serif;
+  font-size: 150%;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color:#D68060;
+  font-family: 'Great Vibes', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0;
+}
+
+.programmer {
+  color:#D68060;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h2 {
+  color:#5AA897;
+  font-family: 'Bree Serif', serif;
+  font-size: 2.7rem;
+}
+
+h3 {
+  color:#1E5128;
+}
+
+.top-container {
+  background-color: #ECE2E1;
+  position: relative;
+  padding-top:100px;
+}
+
+.middle-container {
+  background-color: #D3E0DC;
+  padding-top:55px;
+}
+
+.bottom-container {
+  background-color: #AEE1E1;
+  padding: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: relative;
+  left:400px;
+  bottom:50px;
+}
+
+.bottom-cloud {
+  position: relative;
+  right:120px;
+  bottom:300px;
+}
+
+.anime {
+  width: 15%;
+}
+
+.pr-img {
+  float: left;
+  margin-right: 50px;
+  width: 18%;
+}
+
+.python-img {
+  float: right;
+  margin-left: 50px;
+  width: 18%;
+}
+
+a {
+  color:#005691;
+  margin: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#39A2DB;
+}
+
+p {
+  color:#206A5D;
+  line-height: 2;
+}
+
+.soul {
+  color:#206A5D;
+  font-size: 25px;
+  margin:50px auto 40px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+hr {
+  border-style:dotted;
+  border-bottom-style: none;
+  border-width: 7px;
+  color:#BFD8B8;
+  margin:90px auto;
+  width: 4%;
+}
+
+.copyright {
+  color:#F7F6F2;
+}
+
+.CONTACT_ME_BUTTON {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 12px;
+   border-bottom-width: 20px;
+   color: #FFFFFF;
+   font-family: 'Bree Serif', serif;
+   font-size: 21px;
+   font-weight: 100;
+   padding: 17px;
+   background-color: #7FC8A9;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.contact-me {
+  padding-bottom: 80px;
+}
+
+.get-in-touch-description {
+  margin: 40px auto 80px;
+}
+
+.copyright {
+  font-size: 1.1rem;
+  padding-top:20px;
+}
+
+.bio {
+  margin: 60px auto;
+}
